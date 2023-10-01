@@ -4,7 +4,6 @@ title: Learnings - Hochzeit Reichentrogs
 description: Zusammenschrift der Erkenntnisse des gegebenen Events
 date: 2023-10-02
 ---
-
 # Learnings: Hochzeit Reichentrogs
  [![Generic badge](https://img.shields.io/badge/Event-Hochzeit-purple.svg)](https:/the-event.gallery/) [![Generic badge](https://img.shields.io/badge/Date-29.09.2023-white.svg)](https:/the-event.gallery/) [![Generic badge](https://img.shields.io/badge/Version-v0.2.4-blue.svg)](https:/the-event.gallery/) [![Generic badge](https://img.shields.io/badge/Domain-reichentrog.de-<COLOR>.svg)](https://reichentrog.de/)
 

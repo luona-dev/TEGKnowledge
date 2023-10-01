@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: Home
 ---
 
@@ -9,8 +9,6 @@ title: Home
 For now this knowledge base does not include that much...
 
 ## Learnings
-
-{{ site.learnings }}
 
 {% for learning in site.learnings %}
 - [{{ learning.title }}]({{ learning.url }})
