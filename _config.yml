@@ -1,16 +1,15 @@
 title: the-event.gallery Knowledge Base
 description: The public Knowledge Base for the the-event.gallery suite
 url: "https://knowledge.the-event.gallery" 
-baseurl: "/TEGKnowledge" 
 theme: minima
 timezone: "Europe/Berlin" # Set your timezone
 
 
 # Plugins
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jemoji
+# plugins:
+#   - jekyll-feed
+#   - jekyll-sitemap
+#   - jemoji
 
 # Collections
 collections:
