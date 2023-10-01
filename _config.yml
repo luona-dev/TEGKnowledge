@@ -15,7 +15,6 @@ timezone: "Europe/Berlin" # Set your timezone
 collections:
   learnings:
     output: true
-    permalink: /learnings/:path/  
 
 # # Site Settings
 
