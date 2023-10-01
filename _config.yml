@@ -15,11 +15,11 @@ timezone: "Europe/Berlin" # Set your timezone
 #   - Gemfile
 #   - Gemfile.lock
 
-# # Plugins
-# plugins:
-#   - jekyll-feed
-#   - jekyll-sitemap
-#   - jemoji
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jemoji
 
 # # Author
 # author:
