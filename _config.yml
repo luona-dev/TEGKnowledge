@@ -21,9 +21,9 @@ plugins:
   - jekyll-sitemap
   - jemoji
 
-# # Author
-# author:
-#   email: info@the-event.gallery
+# Author
+author:
+  email: info@the-event.gallery
 
 # Collections
 collections:
