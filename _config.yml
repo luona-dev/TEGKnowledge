@@ -4,6 +4,12 @@ url: "https://knowledge.the-event.gallery"
 theme: minima
 timezone: "Europe/Berlin" # Set your timezone
 
+# Build Settings
+markdown: kramdown
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
 
 # Plugins
 plugins:
@@ -11,19 +17,12 @@ plugins:
   - jekyll-sitemap
   - jemoji
 
+
 # Collections
 collections:
   learnings:
     output: true
     permalink: /:collection/:path/
-
-
-# Build Settings
-markdown: kramdown
-exclude:
-  - Gemfile
-  - Gemfile.lock
-
 
 
 # Author
