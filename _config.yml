@@ -3,6 +3,20 @@ description: The public Knowledge Base for the the-event.gallery suite
 url: "https://knowledge.the-event.gallery" 
 theme: minima
 timezone: "Europe/Berlin" # Set your timezone
+
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jemoji
+
+# Collections
+collections:
+  learnings:
+    output: true
+    permalink: /learnings/:path/  
+
 # # Site Settings
 # baseurl: "/TEGKnowledge" 
 
@@ -15,21 +29,13 @@ timezone: "Europe/Berlin" # Set your timezone
 #   - Gemfile
 #   - Gemfile.lock
 
-# Plugins
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jemoji
+
 
 # # Author
 # author:
 #   email: info@the-event.gallery
 
-# Collections
-collections:
-  learnings:
-    output: true
-    permalink: /learnings/:path/
+
 
 # # Navigation
 # header_pages:

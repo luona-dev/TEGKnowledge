@@ -10,9 +10,11 @@ For now this knowledge base does not include that much...
 
 ## Learnings
 
+{{ site.learnings | jsonify }}
+
+
 {% for learning in site.learnings %}
 - [{{ learning.title }}]({{ learning.url }})
-{{ learning.content | truncatewords: 50 }}
 {% endfor %}
 
 <!-- 
