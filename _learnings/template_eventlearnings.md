@@ -10,9 +10,9 @@ published: false
 
 ---
 layout: page
-title: Learnings: Hochzeit Reichentrogs
-description: Zusammenschrift der Erkenntnisse des gegebenen Events
-date: 2023-10-02
+title: {{ learning_title }}
+description: {{ learning_description }}
+date: {{ learning_date }}
 ---
 
 # Learnings: {{ event_name }}

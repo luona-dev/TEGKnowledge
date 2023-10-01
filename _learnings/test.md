@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Learnings: Hochzeit Reichentrogs
-description: Zusammenschrift der Erkenntnisse des gegebenen Events
+title: Learnings - Test
+description: Testbeschreibung
 date: 2023-10-02
 ---
 
