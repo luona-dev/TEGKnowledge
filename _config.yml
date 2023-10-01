@@ -31,9 +31,9 @@ plugins:
 #     output: true
 #     permalink: /learnings/:path/
 
-# # Navigation
-# header_pages:
-#   - index.md
-#   # - about.md
-#   # - contact.md
+# Navigation
+header_pages:
+  - index.md
+  # - about.md
+  # - contact.md
 
