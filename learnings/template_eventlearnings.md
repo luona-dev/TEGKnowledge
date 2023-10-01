@@ -1,7 +1,18 @@
+---
+published: false
+---
+
 [Markdown Badges](https://naereen.github.io/badges/)
 [Markdown Emojis](https://gist.github.com/rxaviers/7360908)
 [Markwodn Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
 
+---
+
+---
+layout: page
+title: Learnings: Hochzeit Reichentrogs
+description: Zusammenschrift der Erkenntnisse des gegebenen Events
+date: 2023-10-02
 ---
 
 # Learnings: {{ event_name }}
