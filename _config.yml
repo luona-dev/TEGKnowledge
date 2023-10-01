@@ -6,17 +6,17 @@ timezone: "Europe/Berlin" # Set your timezone
 
 
 # Plugins
-# plugins:
-#   - jekyll-feed
-#   - jekyll-sitemap
-#   - jemoji
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jemoji
 
 # Collections
 collections:
   learnings:
     output: true
+    permalink: /:collection/:path/
 
-# # Site Settings
 
 # Build Settings
 markdown: kramdown
@@ -26,9 +26,9 @@ exclude:
 
 
 
-# # Author
-# author:
-#   email: info@the-event.gallery
+# Author
+author:
+  email: info@the-event.gallery
 
 
 
