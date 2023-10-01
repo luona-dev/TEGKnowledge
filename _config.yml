@@ -1,10 +1,10 @@
+title: the-event.gallery Knowledge Base
+description: The public Knowledge Base for the the-event.gallery suite
+url: "https://knowledge.the-event.gallery" 
 theme: minima
+timezone: "Europe/Berlin" # Set your timezone
 # # Site Settings
-# title: the-event.gallery Knowledge Base
-# description: The public Knowledge Base for the the-event.gallery suite
 # baseurl: "/TEGKnowledge" 
-# url: "https://knowledge.the-event.gallery" 
-# timezone: "Europe/Berlin" # Set your timezone
 
 # # Build Settings
 # markdown: kramdown
