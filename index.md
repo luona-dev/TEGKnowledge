@@ -6,7 +6,7 @@ title: Home
 # Welcome to the TEG Knowledge Base
 
 <!-- This knowledge base contains a collection of insights, tutorials, and documentation to help you understand [your subject/topic]. -->
-For now this knowledge abse does not include that much...
+For now this knowledge base does not include that much...
 
 ## Learnings
 
