@@ -18,14 +18,11 @@ collections:
 
 # # Site Settings
 
-# # Build Settings
-# markdown: kramdown
-# theme: minima # Or any other theme you choose
-# permalink: /:categories/:title/ # Make URLs more readable and related to the content
-# paginate: 10 # Number of posts per page
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
+# Build Settings
+markdown: kramdown
+exclude:
+  - Gemfile
+  - Gemfile.lock
 
 
 
