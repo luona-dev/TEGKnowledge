@@ -1,38 +1,39 @@
-# Site Settings
-title: the-event.gallery Knowledge Base
-description: The public Knowledge Base for the the-event.gallery suite
-baseurl: "/TEGKnowledge" 
-url: "https://knowledge.the-event.gallery" 
-timezone: "Europe/Berlin" # Set your timezone
+theme: minima
+# # Site Settings
+# title: the-event.gallery Knowledge Base
+# description: The public Knowledge Base for the the-event.gallery suite
+# baseurl: "/TEGKnowledge" 
+# url: "https://knowledge.the-event.gallery" 
+# timezone: "Europe/Berlin" # Set your timezone
 
-# Build Settings
-markdown: kramdown
-theme: minima # Or any other theme you choose
-permalink: /:categories/:title/ # Make URLs more readable and related to the content
-paginate: 10 # Number of posts per page
-exclude:
-  - Gemfile
-  - Gemfile.lock
+# # Build Settings
+# markdown: kramdown
+# theme: minima # Or any other theme you choose
+# permalink: /:categories/:title/ # Make URLs more readable and related to the content
+# paginate: 10 # Number of posts per page
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
 
-# Plugins
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jemoji
+# # Plugins
+# plugins:
+#   - jekyll-feed
+#   - jekyll-sitemap
+#   - jemoji
 
-# Author
-author:
-  email: info@the-event.gallery
+# # Author
+# author:
+#   email: info@the-event.gallery
 
-# Collections
-collections:
-  learnings:
-    output: true
-    permalink: /learnings/:path/
+# # Collections
+# collections:
+#   learnings:
+#     output: true
+#     permalink: /learnings/:path/
 
-# Navigation
-header_pages:
-  - index.md
-  # - about.md
-  # - contact.md
+# # Navigation
+# header_pages:
+#   - index.md
+#   # - about.md
+#   # - contact.md
 
