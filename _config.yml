@@ -25,11 +25,11 @@ plugins:
 # author:
 #   email: info@the-event.gallery
 
-# # Collections
-# collections:
-#   learnings:
-#     output: true
-#     permalink: /learnings/:path/
+# Collections
+collections:
+  learnings:
+    output: true
+    permalink: /learnings/:path/
 
 # Navigation
 header_pages:
