@@ -12,6 +12,7 @@ For now this knowledge base does not include that much...
 
 {% for learning in site.learnings %}
 - [{{ learning.title }}]({{ learning.url }})
+{{ learning.content | truncatewords: 50 }}
 {% endfor %}
 
 <!-- 
