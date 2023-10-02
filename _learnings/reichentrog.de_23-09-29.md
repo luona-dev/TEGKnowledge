@@ -21,7 +21,7 @@ date: 2023-10-02
 Als, nachdem ich weg war, das Setup versehentlich ausgestöpselt wurde konnte und wollte das natürlich niemand wieder zum Laufen bringen. Es braucht über die gesamte Veranstaltungsdauer eine Person, die weiß wie das Setup funktioniert und eine Motivation hat dass das ganze läuft. Möglich:
 
 
-- Eine dedizierte Person
+- Eine dedizierte Person aka Ich
     - :+1: Kennt sich aus und hat kein Stress damit
     - :-1: Hat 90% der Zeit nichts zu tun. Personalkosten. 
 - Eine Person vom Catering/Bar/Planung 
