@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Learnings - Hochzeit Reichentrogs
-description: Zusammenschrift der Erkenntnisse des gegebenen Events
+description: Zusammenschrift der Erkenntnisse
 date: 2023-10-02
 ---
 # Learnings: Hochzeit Reichentrogs
